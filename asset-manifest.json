@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-darktheme-toggle/static/css/main.a6e43f63.chunk.css",
+    "main.js": "/react-darktheme-toggle/static/js/main.03060548.chunk.js",
+    "main.js.map": "/react-darktheme-toggle/static/js/main.03060548.chunk.js.map",
+    "runtime-main.js": "/react-darktheme-toggle/static/js/runtime-main.c80abb6c.js",
+    "runtime-main.js.map": "/react-darktheme-toggle/static/js/runtime-main.c80abb6c.js.map",
+    "static/css/2.66ce3997.chunk.css": "/react-darktheme-toggle/static/css/2.66ce3997.chunk.css",
+    "static/js/2.c919addb.chunk.js": "/react-darktheme-toggle/static/js/2.c919addb.chunk.js",
+    "static/js/2.c919addb.chunk.js.map": "/react-darktheme-toggle/static/js/2.c919addb.chunk.js.map",
+    "index.html": "/react-darktheme-toggle/index.html",
+    "static/css/2.66ce3997.chunk.css.map": "/react-darktheme-toggle/static/css/2.66ce3997.chunk.css.map",
+    "static/css/main.a6e43f63.chunk.css.map": "/react-darktheme-toggle/static/css/main.a6e43f63.chunk.css.map",
+    "static/js/2.c919addb.chunk.js.LICENSE.txt": "/react-darktheme-toggle/static/js/2.c919addb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c80abb6c.js",
+    "static/css/2.66ce3997.chunk.css",
+    "static/js/2.c919addb.chunk.js",
+    "static/css/main.a6e43f63.chunk.css",
+    "static/js/main.03060548.chunk.js"
+  ]
+}
