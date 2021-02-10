@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins';
+  height: 100vh;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+#root {
+  height: 100vh;
+}
+
+.header {
+  background-color: #ececec;
+  padding: 2em 2em;
+  -webkit-transition: 200ms ease-in;
+  transition: 200ms ease-in;
+}
+
+.header.dark {
+  background-color: #393e46;
+}
+
+.toggle.react-toggle--checked .react-toggle-track {
+  background-color: #46b5d1;
+}
+
+.toggle.react-toggle--checked .react-toggle-track:hover {
+  background-color: #46b5d1;
+}
+
+.content {
+  min-height: 100%;
+  background-color: white;
+  -webkit-transition: 200ms ease-in;
+  transition: 200ms ease-in;
+}
+
+.content.dark {
+  background-color: #222831;
+}
+/*# sourceMappingURL=main.css.map */
